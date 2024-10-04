@@ -5,7 +5,6 @@ export default function CardContainer({ titulo, children }) {
             <div className="flex">
                 {children}
             </div>
-
         </div>
     )
 }
